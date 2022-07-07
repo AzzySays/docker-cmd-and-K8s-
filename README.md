@@ -1,10 +1,10 @@
 # docker-cmd-and-K8s-
 docker and Kubectl cmd 
 
-- https://hub.docker.com/u/in28min
-- https://hub.docker.com/r/in28min/hello-world-java
-- https://hub.docker.com/r/in28min/hello-world-python
-- https://hub.docker.com/r/in28min/hello-world-nodejs
+- https://hub.docker.com/u/azdocs5
+- https://hub.docker.com/r/azdocs5/hello-world-java
+- https://hub.docker.com/r/azdocs5/hello-world-python
+- https://hub.docker.com/r/azdocs5/hello-world-nodejs
 
 # Commands
 
